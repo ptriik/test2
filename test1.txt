@@ -1,2 +1,4 @@
 test1
 ajout ligne 2
+------------
+ajout d'une ligne 3 et du fichier test2.txt
